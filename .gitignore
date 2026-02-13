@@ -1,0 +1,27 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# Archivos temporales
+*~
+*.swp
+*.swo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos grandes (si aplica)
+*.zip
+*.tar.gz
+
+# Outputs temporales
+*.log
+*.tmp

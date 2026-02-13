@@ -1,0 +1,51 @@
+id,ingreso_mensual,edad,educacion_anios,sexo,area,sector,etnia,departamento
+1,4250,32,9,Mujer,Rural,Informal,Indígena,Quiché
+2,8500,45,16,Hombre,Urbana,Formal,No indígena,Guatemala
+3,3200,28,6,Mujer,Rural,Informal,Indígena,Huehuetenango
+4,12500,52,18,Hombre,Urbana,Formal,No indígena,Guatemala
+5,5800,38,12,Mujer,Urbana,Formal,No indígena,Quetzaltenango
+6,3800,24,9,Hombre,Rural,Informal,Indígena,Alta Verapaz
+7,6200,41,12,Hombre,Urbana,Formal,No indígena,Escuintla
+8,4100,29,8,Mujer,Rural,Informal,Indígena,San Marcos
+9,9800,48,16,Hombre,Urbana,Formal,No indígena,Guatemala
+10,3500,22,6,Mujer,Rural,Informal,Indígena,Sololá
+11,7200,35,14,Mujer,Urbana,Formal,No indígena,Guatemala
+12,4800,31,10,Hombre,Urbana,Informal,No indígena,Sacatepéquez
+13,3100,26,5,Mujer,Rural,Informal,Indígena,Totonicapán
+14,15200,55,18,Hombre,Urbana,Formal,No indígena,Guatemala
+15,5500,42,11,Mujer,Urbana,Formal,Indígena,Quetzaltenango
+16,3900,27,7,Hombre,Rural,Informal,Indígena,Chimaltenango
+17,8200,44,15,Hombre,Urbana,Formal,No indígena,Guatemala
+18,4500,33,9,Mujer,Urbana,Informal,No indígena,Mixco
+19,6800,39,13,Hombre,Urbana,Formal,No indígena,Villa Nueva
+20,3300,25,6,Mujer,Rural,Informal,Indígena,Quiché
+21,11500,50,17,Hombre,Urbana,Formal,No indígena,Guatemala
+22,4200,30,8,Mujer,Rural,Informal,Indígena,Huehuetenango
+23,7500,43,14,Mujer,Urbana,Formal,No indígena,Guatemala
+24,5200,36,11,Hombre,Urbana,Formal,Indígena,Quetzaltenango
+25,3600,23,7,Hombre,Rural,Informal,Indígena,San Marcos
+26,9200,47,16,Hombre,Urbana,Formal,No indígena,Guatemala
+27,4000,28,8,Mujer,Rural,Informal,No indígena,Petén
+28,6500,40,12,Mujer,Urbana,Formal,No indígena,Escuintla
+29,3400,21,5,Hombre,Rural,Informal,Indígena,Alta Verapaz
+30,13500,53,18,Hombre,Urbana,Formal,No indígena,Guatemala
+31,5100,34,10,Mujer,Urbana,Informal,No indígena,Mixco
+32,4400,29,9,Hombre,Urbana,Informal,Indígena,Chimaltenango
+33,7800,46,15,Mujer,Urbana,Formal,No indígena,Guatemala
+34,3700,24,6,Mujer,Rural,Informal,Indígena,Sololá
+35,10200,49,17,Hombre,Urbana,Formal,No indígena,Guatemala
+36,4600,32,9,Hombre,Rural,Informal,No indígena,Jutiapa
+37,6100,37,12,Mujer,Urbana,Formal,No indígena,Villa Nueva
+38,3200,20,4,Mujer,Rural,Informal,Indígena,Totonicapán
+39,8800,45,16,Hombre,Urbana,Formal,No indígena,Guatemala
+40,4900,35,10,Mujer,Urbana,Informal,No indígena,Sacatepéquez
+41,5600,38,11,Hombre,Urbana,Formal,Indígena,Quetzaltenango
+42,3500,26,7,Mujer,Rural,Informal,Indígena,Huehuetenango
+43,12000,51,18,Hombre,Urbana,Formal,No indígena,Guatemala
+44,4300,30,8,Hombre,Rural,Informal,No indígena,Petén
+45,7100,42,14,Mujer,Urbana,Formal,No indígena,Guatemala
+46,3800,27,6,Mujer,Rural,Informal,Indígena,San Marcos
+47,9500,48,16,Hombre,Urbana,Formal,No indígena,Guatemala
+48,5300,36,11,Mujer,Urbana,Formal,No indígena,Escuintla
+49,3100,22,5,Hombre,Rural,Informal,Indígena,Alta Verapaz
+50,14500,54,18,Hombre,Urbana,Formal,No indígena,Guatemala
