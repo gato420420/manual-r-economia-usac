@@ -147,7 +147,7 @@ manual-r-economia-usac/
 
 ## 👨‍🏫 Autor
 
-**Lic. MSc. Brayan Alejandro Mejía Xicará**
+**Lic. Brayan Arnoldo Gonzalez Perez**
 
 - 📧 Email: [tu-correo@usac.edu.gt]
 - 🏫 Universidad de San Carlos de Guatemala
