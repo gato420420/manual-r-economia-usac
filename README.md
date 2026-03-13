@@ -22,7 +22,7 @@
 
 ## 📖 Descripción
 
-Material de apoyo para los cursos de **Metodología de la Investigación**, **Estadística** y **Econometría** de la Facultad de Ciencias Económicas, USAC. Este repositorio contiene un manual completo para aprender R y RStudio desde cero, con aplicaciones prácticas a problemas económicos de Guatemala y Centroamérica.
+Material de apoyo para los cursos de **Metodología de la Investigación**, de la Facultad de Ciencias Económicas, USAC. Este repositorio contiene un manual completo para aprender R y RStudio desde cero, con aplicaciones prácticas a problemas económicos de Guatemala y Centroamérica.
 
 ## ✨ Características
 
