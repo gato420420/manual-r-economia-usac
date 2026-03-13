@@ -149,7 +149,7 @@ manual-r-economia-usac/
 
 **Lic. Brayan Arnoldo Gonzalez Perez**
 
-- 📧 Email: [tu-correo@usac.edu.gt]
+- 📧 Email: [201712229brayangonzalez@gmail.com]
 - 🏫 Universidad de San Carlos de Guatemala
 - 📍 Facultad de Ciencias Económicas
 
